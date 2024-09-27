@@ -687,6 +687,10 @@ h1{
     margin: 5px 0;
 }
 
+ .nav-buttons{
+  width:50px;
+ }
+
 .right-side-bottom {
     margin-left: 0;
 }
