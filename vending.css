@@ -367,7 +367,8 @@ span {
     cursor: pointer;
 }
 
-  button:hover {
+  .request-service-button:hover,
+  .main-button:hover{
     background-color: rgb(22, 32, 85);
     border: solid 1px rgb(39, 170, 226);
 }
