@@ -657,6 +657,7 @@ h1{
 }
 
 .left-side-nav {
+    margin-left:0px;
     margin: 0 auto;
     text-align: center;
 }
