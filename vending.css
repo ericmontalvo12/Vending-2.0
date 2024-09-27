@@ -788,6 +788,7 @@ h2{
 @media (min-width: 768px) {
 
     .left-side-nav{
+     width:200px;
     }
 
     .right-side-nav{
