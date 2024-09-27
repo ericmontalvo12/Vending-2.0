@@ -636,6 +636,10 @@ h1{
     width:100%;
 }
 
+ .top-nav{
+   height:auto;
+ }
+
 .contact-div {
     width:320px;
     margin-right: 10px;
