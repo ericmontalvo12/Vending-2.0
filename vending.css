@@ -694,6 +694,7 @@ h1{
 .main-section {
     align-items: top;
     height: 500px;
+    width:100%;
 }
 
 /* Main content adjustments */
