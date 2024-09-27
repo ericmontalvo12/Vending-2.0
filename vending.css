@@ -663,6 +663,7 @@ h1{
  }
 
 .left-side-nav {
+    width:200px
     margin-left:0px;
     text-align: center;
 }
