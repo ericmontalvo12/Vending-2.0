@@ -28,7 +28,7 @@ p{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-right: 370px;
+    margin-right: 100px;
 }
 
 
@@ -76,7 +76,7 @@ p{
 }
 
 .right-side-nav {
-    margin-left: 240px;
+    margin-left:140px;
     display: flex;
     flex-direction: column;
 
@@ -94,13 +94,13 @@ p{
     border: none;
     background-color: transparent;
     color: rgb(39, 170, 226);
-    font-size: 20px;
+    font-size: 16px;
     cursor: pointer;
 }
 
 .right-side-bottom {
     margin-top: 10px;
-    margin-left: 340px;
+    margin-left: 220px;
 
 }
 
@@ -162,6 +162,7 @@ h1{
 }
 
 .div-row1{
+    margin-top: 20px;
     height: 90px;
 }
 
@@ -623,15 +624,23 @@ body {
   width:100%;
  }
 
+ .div-row1{
+    margin-top: 0px;
+}
+
+
 h1{
-    font-size: 40px;
+    margin-bottom: 0px;
+    font-size: 20.8px;
     text-align: center;
 }
 
 .main-paragraph{
-    margin-top: 50px;
-    font-size: 20px;
+    margin-top: 10px;
+    font-size: 16px;
 }
+
+
 
 /* Header and Navigation */
 .top-nav, .middle-nav, .bottom-nav {
@@ -723,7 +732,7 @@ h2{
 .main-button {
     font-size: 18px;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 .section2{
@@ -782,7 +791,11 @@ h2{
 
 .right-footer {
     flex-direction: column;
-}}
+}
+}
+
+
+
 
 /* Media Queries for Tablets (768px and above) */
 @media (min-width: 768px) {
@@ -861,10 +874,14 @@ h2{
     }
 
     .main-div{
-        width: 70%;
+        width:40%;
     }
 
     .section2-grid {
         grid-template-columns: repeat(3, 1fr); /* Three columns for desktop */
+    }
+
+    .section3{
+        height: 1100px;
     }
 }
