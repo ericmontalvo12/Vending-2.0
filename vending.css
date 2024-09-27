@@ -20,6 +20,9 @@ p{
     border-bottom-style: solid;
 }
 
+.video-div{
+ width:100%;}
+
 .contact-div {
     display: flex;
     flex-direction: row;
