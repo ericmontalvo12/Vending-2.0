@@ -658,6 +658,10 @@ h1{
     height: auto;
 }
 
+ .logo{
+  width: 100%;
+ }
+
 .left-side-nav {
     margin-left:0px;
     text-align: center;
