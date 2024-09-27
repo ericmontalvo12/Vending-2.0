@@ -633,6 +633,7 @@ h1{
 
 /* Header and Navigation */
 .top-nav, .middle-nav, .bottom-nav {
+    padding:0px;
     width:100%;
 }
 
