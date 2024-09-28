@@ -14,7 +14,7 @@ p{
     display: flex;
     flex-direction: row;
     justify-content: end;
-    background-color: rgb(22, 32, 85);
+    background-color: hex(#315836);
     border-bottom: 3px;
     border-bottom-color: rgb(39, 170, 226);
     border-bottom-style: solid;
