@@ -737,7 +737,6 @@
          width: 320px;
          flex-direction: column;
          /* Stack contact info vertically on smaller screens */
-         align-items: flex-end;
      }
 
      .section3-div {
