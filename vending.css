@@ -668,6 +668,9 @@
          /* Set a base font size for smaller screens */
      }
 
+     .section8-div {
+         width: 100%;
+     }
 
      h6 {
          font-size: 16px;
