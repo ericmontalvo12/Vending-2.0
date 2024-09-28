@@ -116,7 +116,7 @@ p{
 }
 
 .main-section {
-    background:url(palmdale-header-bg.jpeg); no-repeat;
+    background:url(palmdale-header-bg.png); no-repeat;
     background-position: top center; /* Specify position separately */
     background-size: cover; /* Ensure image covers the area */
     width: 100%;
