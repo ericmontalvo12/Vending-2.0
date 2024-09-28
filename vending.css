@@ -757,6 +757,7 @@
      }
 
      .right-side-nav {
+         width: 100%;
          margin-left: 0px;
      }
 
@@ -778,7 +779,7 @@
      }
 
      .nav-buttons {
-         width: 70px;
+         width: 100px;
      }
 
      .right-side-bottom {
