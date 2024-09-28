@@ -724,7 +724,7 @@
      .middle-nav,
      .bottom-nav {
          padding: 0px;
-         width: 700px;
+         width: 100%;
      }
 
      .top-nav {
