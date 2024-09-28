@@ -668,8 +668,13 @@
          /* Set a base font size for smaller screens */
      }
 
+
+     h6 {
+         font-size: 16px;
+     }
+
      .row-divs {
-         width: 100%;
+         width: 100%rrrr;
      }
 
 
@@ -678,6 +683,7 @@
      }
 
      .section6-div {
+         width: 100%;
          margin-left: 0px;
      }
 
