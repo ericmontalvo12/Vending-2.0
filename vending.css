@@ -668,6 +668,10 @@
          /* Set a base font size for smaller screens */
      }
 
+     .list-text {
+         font-size: 14px;
+     }
+
      .section8-div {
          width: 100%;
      }
