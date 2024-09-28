@@ -154,6 +154,8 @@ h1{
 }
 
 .main-paragraph{
+    margin-left:10px;
+    margin-right:10px;
     font-weight: bold;
     text-align: center;
     margin-top: 20px;
