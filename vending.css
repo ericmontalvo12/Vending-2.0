@@ -1,6 +1,5 @@
  body {
      margin: 0;
-     overflow-x: hidden;
  }
 
  p {
@@ -667,6 +666,8 @@
          /* Set a base font size for smaller screens */
      }
 
+
+
      .list-text {
          font-size: 14px;
      }
@@ -733,7 +734,6 @@
 
      .contact-div {
          width: 320px;
-         margin-right: 10px;
          flex-direction: column;
          /* Stack contact info vertically on smaller screens */
          align-items: flex-end;
@@ -760,7 +760,8 @@
      }
 
      .left-side-nav {
-         width: 200px margin-left: 10px;
+         width: 200px;
+         margin-left: 10px;
          text-align: center;
      }
 
