@@ -93,7 +93,7 @@ p{
     font-weight: 500;
     border: none;
     background-color: transparent;
-    color: rgb(39, 170, 226);
+    color: rgb(93,154, 75);
     font-size: 16px;
     cursor: pointer;
 }
@@ -108,8 +108,8 @@ p{
     font-family: Merriweather;
     font-size: 14px;
     color: white;
-    background-color: rgb(39, 170, 226);
-    border: solid 2px rgb(22, 32, 85);
+    background-color: rgb(93, 154, 75);
+    border: solid 2px rgb(57,96,63);
     padding: 10px 25px;
     border-radius: 4px;
     cursor: pointer;
