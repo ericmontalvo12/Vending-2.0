@@ -668,6 +668,10 @@
          /* Set a base font size for smaller screens */
      }
 
+     .row-divs {
+         width: 100%;
+     }
+
 
      .video-div {
          width: 100%;
