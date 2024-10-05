@@ -610,9 +610,10 @@
 
  .product-grid-div {
      display: flex;
-     flex-direction: column;
-     justify-content: center;
+     flex-direction: row;
+     align-items: center;
  }
+
 
  .product-grid-row {
      display: flex;
@@ -760,10 +761,6 @@
          /* Stack contact info vertically on smaller screens */
      }
 
-     .container {
-         width: 344px;
-     }
-
      .section3-div {
          width: 80%;
          height: 800px;
@@ -870,7 +867,7 @@
 
      /* Form adjustments */
      .container {
-         width: 340px;
+         width: 344px;
          padding-left: 0px;
          padding-right: 0px;
      }
