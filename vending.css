@@ -670,6 +670,10 @@
          /* Set a base font size for smaller screens */
      }
 
+     .product-grid {
+         width: 344px;
+     }
+
 
 
      .list-text {
@@ -697,8 +701,10 @@
          width: 100%;
      }
 
+
+
      .section7-div {
-         width: 100%;
+         width: 344px;
      }
 
      .section6-div {
@@ -753,6 +759,9 @@
      }
 
      .section5 {
+         display: flex;
+         flex-direction: row;
+         align-items: center;
          width: 344px;
      }
 
