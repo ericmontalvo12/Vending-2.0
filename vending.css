@@ -608,6 +608,12 @@
      align-items: center;
  }
 
+ .product-grid-div {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+ }
+
  .product-grid-row {
      display: flex;
      flex-direction: row;
@@ -864,7 +870,6 @@
 
      /* Form adjustments */
      .container {
-         width: 100%;
          padding-left: 0px;
          padding-right: 0px;
      }
