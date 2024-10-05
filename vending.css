@@ -862,6 +862,7 @@
      /* Section 5 text adjustment */
 
      .section5 {
+         width: 380px;
          height: auto;
      }
 
