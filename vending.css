@@ -182,7 +182,8 @@
 
  .section9-div {
      display: flex;
-     justify-content: center;
+     flex-direction: row;
+     align-items: center;
      width: 900px;
  }
 
@@ -701,6 +702,9 @@
      }
 
      .section6-div {
+         display: flex;
+         flex-direction: row;
+         align-items: center;
          margin-left: none;
          width: 100%;
      }
