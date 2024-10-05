@@ -30,7 +30,7 @@
      flex-direction: row;
      align-items: center;
      justify-content: center;
-     margin-right: 100px;
+     margin-right: 80px;
  }
 
 
@@ -657,6 +657,8 @@
  }
 
  .section6-div {
+     display: flex;
+     align-items: center;
      width: 920px;
      margin-top: 100px;
  }
@@ -712,7 +714,7 @@
 
      h1 {
          margin-bottom: 0px;
-         font-size: 20.8px;
+         font-size: 38px;
          text-align: center;
      }
 
