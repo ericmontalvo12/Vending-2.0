@@ -677,7 +677,7 @@
      }
 
      .section4 {
-         width: 344px;
+         width: 100%;
      }
 
      .list-text {
@@ -888,7 +888,7 @@
      }
 
      .section5-paragraph {
-         width: ;
+         width: 340px;
          padding-left: 0px;
          padding-right: 0px;
          font-size: 12px;
