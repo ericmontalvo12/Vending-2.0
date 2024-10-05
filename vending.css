@@ -870,6 +870,7 @@
 
      /* Form adjustments */
      .container {
+         width: 340px;
          padding-left: 0px;
          padding-right: 0px;
      }
