@@ -723,12 +723,6 @@
          font-size: 16px;
      }
 
-     .form {
-         width: 380px;
-     }
-
-
-
      /* Header and Navigation */
      .top-nav,
      .middle-nav,
@@ -747,9 +741,17 @@
          /* Stack contact info vertically on smaller screens */
      }
 
+     .container {
+         width: 344px;
+     }
+
      .section3-div {
          width: 80%;
          height: 800px;
+     }
+
+     .section5 {
+         width: 344px;
      }
 
      .section2-div {
