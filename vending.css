@@ -763,11 +763,7 @@
      .top-nav,
      .middle-nav,
      .bottom-nav {
-         padding: 0px;
-     }
-
-     .top-nav {
-         height: auto;
+         width: 100%;
      }
 
      .contact-div {
