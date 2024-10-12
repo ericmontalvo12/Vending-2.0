@@ -769,6 +769,7 @@
      .top-nav,
      .middle-nav,
      .bottom-nav {
+         background-color: black;
          width: 100%;
      }
 
