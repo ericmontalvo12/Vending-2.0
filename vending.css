@@ -704,7 +704,7 @@
      .section9 {
          display: flex;
          align-items: center;
-         flex-direction: column;
+         3 flex-direction: column;
          justify-content: center;
      }
 
