@@ -120,8 +120,7 @@
  }
 
  .main-section {
-     background: url(palmdale-header-bg.png);
-     no-repeat;
+     background: url(palmdale-header-bg.png) no-repeat;
      background-position: top center;
      /* Specify position separately */
      background-size: cover;
