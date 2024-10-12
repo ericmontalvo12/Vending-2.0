@@ -687,25 +687,256 @@
 
 
  @media (max-width: 600px) {
-     /* ... other styles ... */
+     body {
+         margin: 0;
+         font-size: 14px;
+         /* Set a base font size for smaller screens */
+     }
 
-     .section8-div,
-     .section9-div,
-     .section7-div,
-     .section6-div,
-     .section2-div,
-     .container {
+     .product-grid {
+         width: 100%;
+     }
+
+     .section4 {
+         width: 100%;
+     }
+
+     .list-text {
+         font-size: 14px;
+     }
+
+     .section8-div {
+         width: 344px;
+     }
+
+     .section9 {
+         height: 565px;
+         display: flex;
+         align-items: center;
+         flex-direction: column;
+         justify-content: center;
+     }
+
+     .section9-div {
+         width: 344px;
+     }
+
+     h6 {
+         font-size: 16px;
+     }
+
+     .row-divs {
+         width: 100%;
+     }
+
+
+     .video-div {
+         width: 100%;
+     }
+
+
+
+     .section7-div {
+         width: 344px;
+     }
+
+     .section6-div {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         margin-left: none;
+         width: 344px;
+     }
+
+     .div-row1 {
+         margin-top: 0px;
+     }
+
+
+     h1 {
+         margin-bottom: 0px;
+         font-size: 30px;
+         text-align: center;
+     }
+
+     .main-paragraph {
+         margin-top: 10px;
+         font-size: 16px;
+     }
+
+     /* Header and Navigation */
+     .top-nav,
+     .middle-nav,
+     .bottom-nav {
          width: 100%;
      }
 
      .contact-div {
-         width: 100%;
+         width: 320px;
          flex-direction: column;
          /* Stack contact info vertically on smaller screens */
      }
 
-     /* ... other styles ... */
+     .section3-div {
+         width: 80%;
+         height: 800px;
+     }
+
+     .section5 {
+         display: flex;
+         flex-direction: row;
+         align-items: center;
+         width: 100%;
+     }
+
+     .section2-div {
+         width: 344px;
+     }
+
+     .s3-top-row {
+         width: 100%;
+     }
+
+     /* Adjusting the logo and navigation buttons for mobile */
+     .bottom-nav {
+         flex-direction: column;
+         align-items: center;
+         height: auto;
+     }
+
+     .logo {
+         width: 200px;
+     }
+
+     .left-side-nav {
+         width: 200px;
+         margin-left: 10px;
+         text-align: center;
+     }
+
+     .right-side-nav {
+         width: 100%;
+         margin-left: 0px;
+     }
+
+     .s3-paragraph {
+         font-size: 20px;
+     }
+
+
+
+     .right-side-top,
+     .right-side-bottom {
+         margin: 10px 0;
+         text-align: center;
+     }
+
+     .right-side-top .nav-buttons {
+         display: block;
+         margin: 5px 0;
+     }
+
+     .nav-buttons {
+         width: 120px;
+     }
+
+     .right-side-bottom {
+         margin-left: 0;
+     }
+
+     .main-section {
+         align-items: top;
+         height: 500px;
+         width: 100%;
+     }
+
+     /* Main content adjustments */
+     .main-div {
+         margin-top: 50px;
+         width: 100%;
+         padding: 20px;
+     }
+
+     h2 {
+         text-align: center;
+     }
+
+     .main-button {
+         font-size: 18px;
+         width: 100%;
+         margin-top: 10px;
+     }
+
+     .section2 {
+         height: 1840px;
+         width: 100%;
+     }
+
+     /* Section 2 grid adjustments */
+     .section2-grid {
+         grid-template-columns: 1fr;
+         /* Single column for mobile */
+     }
+
+     .grid-column {
+         margin-bottom: 40px;
+     }
+
+     /* Form adjustments */
+     .container {
+         width: 344px;
+         padding-left: 0px;
+         padding-right: 0px;
+     }
+
+     .submit-form-button {
+         width: 100%;
+     }
+
+     .section3 {
+         width: 100%;
+         height: 800px;
+     }
+
+     .section3-paragraph {
+         font-size: 16px;
+     }
+
+     /* Section 5 text adjustment */
+
+     .section5 {
+         width: 100%;
+         height: auto;
+     }
+
+     .section5-paragraph {
+         width: 340px;
+         padding-left: 0px;
+         padding-right: 0px;
+         font-size: 12px;
+     }
+
+     /* Footer adjustments */
+
+
+     .left-footer,
+     .right-footer {
+         width: 100px;
+         margin: 0;
+         text-align: center;
+     }
+
+     .footer-logo {
+         width: 300px;
+     }
+
+     .right-footer {
+         flex-direction: column;
+     }
  }
+
+
+
 
  /* Media Queries for Tablets (768px and above) */
  @media (min-width: 768px) {
