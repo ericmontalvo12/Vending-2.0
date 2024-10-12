@@ -132,7 +132,6 @@
      /* Align items to the top */
      justify-content: center;
      /* Center items horizontally */
-     position: relative;
      /* Keeps positioning in check */
      /* Add margin for spacing */
  }
@@ -213,7 +212,6 @@
      /* Align items to the top */
      justify-content: center;
      /* Center items horizontally */
-     position: relative;
      /* Keeps positioning in check */
  }
 
