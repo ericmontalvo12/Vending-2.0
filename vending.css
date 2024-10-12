@@ -688,6 +688,7 @@
 
  @media (max-width: 600px) {
      body {
+         overflow-x: hidden;
          margin: 0;
          font-size: 14px;
          /* Set a base font size for smaller screens */
