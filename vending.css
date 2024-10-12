@@ -697,6 +697,7 @@
      }
 
      .section9 {
+         height: 565px;
          display: flex;
          align-items: center;
          flex-direction: column;
